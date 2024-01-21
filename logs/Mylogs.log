@@ -1,0 +1,78 @@
+[INFO ] 2024-01-19 15:11:57.989 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-19 15:12:25.432 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-19 15:12:55.058 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-19 15:13:09.042 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-19 15:13:34.256 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-19 15:32:58.176 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-19 15:33:30.137 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-19 15:34:05.646 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-19 15:34:15.976 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-19 15:34:35.102 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-19 18:31:39.919 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-19 18:32:16.482 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-19 18:32:40.016 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-19 18:33:06.978 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-19 18:33:34.926 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-19 18:34:07.343 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-19 18:34:22.686 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-19 18:34:48.734 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-19 22:26:13.196 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-19 22:26:31.838 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-19 22:26:53.920 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-19 22:27:00.458 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-19 22:27:16.037 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-19 22:28:04.516 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-19 22:28:19.998 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-19 22:28:38.030 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-19 22:28:52.087 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-19 22:29:03.292 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-19 22:29:30.486 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-19 22:29:38.983 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-19 22:29:55.062 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-19 23:07:57.908 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-19 23:08:12.115 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-19 23:08:34.003 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-19 23:08:42.084 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-19 23:08:58.921 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-20 11:31:16.915 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-20 11:32:33.165 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-20 11:33:27.181 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-20 11:35:43.493 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-20 11:36:58.475 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-20 11:37:16.397 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-20 11:37:47.027 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-20 11:37:57.372 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-20 11:38:15.135 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-20 22:00:27.513 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-20 22:00:42.332 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-20 22:01:03.767 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-20 22:01:13.017 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-20 22:01:30.225 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-20 22:06:57.037 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-20 22:14:55.874 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-20 22:15:12.887 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-20 22:15:32.195 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-20 22:22:01.346 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-20 22:22:21.301 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-20 22:22:39.946 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-20 22:33:18.192 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-20 22:33:35.392 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-20 22:33:57.705 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-20 22:34:04.801 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-20 22:34:22.130 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-20 23:23:10.591 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-21 10:17:21.641 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-21 10:17:34.299 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-21 10:17:52.100 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-21 12:04:37.535 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-21 12:04:55.573 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-21 13:08:09.092 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-21 13:08:28.456 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-21 13:08:49.526 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-21 13:08:55.292 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-21 13:09:14.820 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-21 13:12:28.164 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-21 13:12:42.865 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-21 13:13:07.302 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-21 13:13:14.375 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-21 13:13:30.689 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
